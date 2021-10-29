@@ -1,0 +1,39 @@
+main{
+    min-height: 80vh;
+}
+.jumbotron.top {
+background-image: url('./pageimages/kt.jpg');
+background-repeat: no repeat;
+background-position: center;
+background-size: cover;
+margin-top: 10px;
+padding-top: 10px;
+margin-bottom: 50px;
+padding: 200px;
+
+}
+.jumbotron.bottom {
+background-image: url('./pageimages/const.jpg');
+background-repeat: no repeat;
+background-position: center;
+background-size: cover;
+margin-top: 10px;
+padding-top: 10px;
+margin-bottom: 5px;
+padding: 200px;
+}
+
+p1
+{
+  color : red;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
